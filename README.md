@@ -18,7 +18,7 @@ Un fichier html s'ouvre via votre navigateur.
 
 Créez 2 titres de niveaux 2 et pour chacun d'eux 2 titres de niveaux 3
 
-Sous chacun des titres du niveaux 2, créez des paragraphes en générant du lorem ipsum
+Sous chacun des titres de niveaux 2, créez des paragraphes en générant du lorem ipsum
 
 Sous un titre de niveaux 2, créez une liste ordonnée de 4 éléments
 
