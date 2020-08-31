@@ -20,7 +20,7 @@ Créez 2 titres de niveaux 2 et pour chacun d'eux 2 titres de niveaux 3
 
 Sous chacun des titres de niveaux 2, créez des paragraphes en générant du lorem ipsum
 
-Sous un titre de niveaux 2, créez une liste ordonnée de 4 éléments
+Sous un titre de niveaux 3, créez une liste ordonnée de 4 éléments
 
 Sous un autre titre de niveaux 2, créez une liste désordonnée de 6 éléments
 
