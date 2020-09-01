@@ -19,3 +19,11 @@ p {
 	font-style: italic;
 	font-size: 1.2em;
 }
+
+div {
+	border : red solid 5px;
+}
+
+#bordure-jaune {
+	border : yellow solid 5px;
+}
